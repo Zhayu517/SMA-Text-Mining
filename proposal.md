@@ -2,4 +2,4 @@
 
 2) Which sport is the most talked about?
 
-3) Which topic is the most popular one on the web, the olympic village, athletes, sports or the venues?
+3) Which country has been mostly talked about during Winter Olympics? What are the people's opinion of that country?
